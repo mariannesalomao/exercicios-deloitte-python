@@ -153,3 +153,5 @@ x = 0
 while x < len(array3):
   print(f'{x}: {array3[x]}')
   x = x + 1
+
+# Testando meu arquivo indo para o github atualizado...
